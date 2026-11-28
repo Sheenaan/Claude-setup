@@ -34,7 +34,7 @@
 - Order: Minto pyramid: governing conclusion first, then MECE supporting points; SCQA framing for complex, decision or written-deliverable answers → Falsifier and Checks lines (analytical only) → any question to me → any offer
 - Short factual or conversational replies: conclusion only, no numbered reasoning
 - Use tables only when required
-- Nested information: when a list has two or more levels, show it as a tree view in a code block using ├──, └── and │. Keep each node to one short line (max. ~60 characters, for mobile); put longer explanation below the tree, not in it. Single-level lists stay as normal bullets. Numbered reasoning steps in analytical answers are excluded
+- Nested information: when a list has two or more levels, show it as a tree view in a code block using ├──, └── and │. Keep each node to one short line (max. ~60 characters, for mobile); put longer explanation below the tree, not in it. Single-level lists stay as normal bullets. Numbered reasoning steps in analytical answers stay as numbered prose, but any nested list inside a step is shown as a tree
 
 ## Sources (all answers)
 - List sources or material consulted in analytical and explanatory answers; in short replies, mention a source briefly where one was used
